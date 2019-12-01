@@ -77,13 +77,13 @@ sys_id += 1
 conv_opt   = float(sys.argv[sys_id])   if len(sys.argv) > sys_id else 0.001 # The conv coefficient for opt7
 
 if flag_data == 12:
-    path_data = '../Data_mea/data1_sin_smooth/'       # The periodic data
+    path_data = './Data_mea/data1_sin_smooth/'       # The periodic data
 elif flag_data == 41:
-    path_data = '../Data_mea/data_smooth_k02_normal/' # Correlation lenght = 0.2
+    path_data = './Data_mea/data_smooth_k02_normal/' # Correlation lenght = 0.2
 elif flag_data == 42:
-    path_data = '../Data_mea/data_smooth_k05_normal/' # Correlation lenght = 0.5
+    path_data = './Data_mea/data_smooth_k05_normal/' # Correlation lenght = 0.5
 elif flag_data == 43:
-    path_data = '../Data_mea/data_smooth_k10_normal/' # Correlation lenght = 1.0
+    path_data = './Data_mea/data_smooth_k10_normal/' # Correlation lenght = 1.0
 
 if not os.path.exists(path_f):
     os.makedirs(path_f)
