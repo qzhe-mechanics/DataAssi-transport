@@ -1,0 +1,396 @@
+test: Nk: 16, Nh: 8, Nf: 200, N_c: 64, N_fc: 200
+seed: 111, seed measurement: 1127, # Initial: 5
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 943 923 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard
+Regularization: 0 1e-08
+rand NNs seeds [1876  876  724   86 1299]
+
+
+seed_tf: 1876
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  2.816287e-04
+Loss_k:  3.978e-06, Loss_h:  2.084e-04, Loss_f:  8.466e-05, Loss_D:  5.628e-06, Loss_N:  3.864e-05, Loss_Ns:  5.956e-06
+Training time:  96.6629
+Error k:  2.382801e-01
+Error h:  2.563575e-02
+Error c:  1.413445e+00
+
+
+seed_tf: 876
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  6.931987e-05
+Loss_k:  1.132e-06, Loss_h:  4.239e-05, Loss_f:  3.768e-05, Loss_D:  7.390e-07, Loss_N:  1.153e-05, Loss_Ns:  1.218e-06
+Training time:  194.5164
+Error k:  1.847745e-01
+Error h:  1.316829e-02
+Error c:  1.531934e+00
+
+
+seed_tf: 724
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  2.642165e-04
+Loss_k:  6.170e-06, Loss_h:  1.773e-04, Loss_f:  9.494e-05, Loss_D:  2.805e-06, Loss_N:  4.873e-05, Loss_Ns:  1.478e-05
+Training time:  149.9527
+Error k:  2.055974e-01
+Error h:  2.446521e-02
+Error c:  1.291399e+00
+
+
+seed_tf: 86
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  2.200091e-04
+Loss_k:  1.117e-05, Loss_h:  1.349e-04, Loss_f:  6.960e-05, Loss_D:  3.349e-06, Loss_N:  7.586e-05, Loss_Ns:  1.885e-06
+Training time:  104.1588
+Error k:  2.015498e-01
+Error h:  1.967191e-02
+Error c:  1.224143e+00
+
+
+seed_tf: 1299
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  9.412078e-05
+Loss_k:  2.212e-06, Loss_h:  5.595e-05, Loss_f:  3.925e-05, Loss_D:  1.832e-06, Loss_N:  3.106e-05, Loss_Ns:  2.682e-07
+Training time:  185.8463
+Error k:  1.748924e-01
+Error h:  1.576835e-02
+Error c:  1.007275e+00
+
+
+test: Nk: 36, Nh: 8, Nf: 200, N_c: 64, N_fc: 200
+seed: 111, seed measurement: 1127, # Initial: 5
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 943 923 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard
+Regularization: 0 1e-08
+rand NNs seeds [1876  876  724   86 1299]
+
+
+seed_tf: 1876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.617062e-01, h: std 2.966121e-01, c: std 6.400944e-02
+loss:  9.009181e-05
+Loss_k:  1.325e-05, Loss_h:  4.441e-05, Loss_f:  4.032e-05, Loss_D:  1.935e-06, Loss_N:  2.242e-05, Loss_Ns:  6.615e-06
+Training time:  191.5214
+Error k:  1.761054e-01
+Error h:  1.299328e-02
+Error c:  1.413445e+00
+
+
+seed_tf: 876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.617062e-01, h: std 2.966121e-01, c: std 6.400944e-02
+loss:  4.859403e-04
+Loss_k:  1.852e-04, Loss_h:  1.397e-04, Loss_f:  2.571e-04, Loss_D:  1.820e-06, Loss_N:  6.349e-05, Loss_Ns:  4.290e-05
+Training time:  203.1012
+Error k:  1.908878e-01
+Error h:  1.890925e-02
+Error c:  1.531934e+00
+
+
+seed_tf: 724
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.617062e-01, h: std 2.966121e-01, c: std 6.400944e-02
+loss:  1.512359e-03
+Loss_k:  7.667e-04, Loss_h:  3.130e-04, Loss_f:  5.881e-04, Loss_D:  2.243e-05, Loss_N:  1.403e-04, Loss_Ns:  2.091e-04
+Training time:  133.9113
+Error k:  2.120313e-01
+Error h:  2.657462e-02
+Error c:  1.291399e+00
+
+
+seed_tf: 86
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.617062e-01, h: std 2.966121e-01, c: std 6.400944e-02
+loss:  2.297580e-03
+Loss_k:  1.145e-03, Loss_h:  2.501e-04, Loss_f:  1.475e-03, Loss_D:  1.033e-05, Loss_N:  3.525e-04, Loss_Ns:  2.087e-04
+Training time:  129.0277
+Error k:  1.900312e-01
+Error h:  2.411481e-02
+Error c:  1.224143e+00
+
+
+seed_tf: 1299
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.617062e-01, h: std 2.966121e-01, c: std 6.400944e-02
+loss:  1.084135e-03
+Loss_k:  5.185e-04, Loss_h:  3.205e-04, Loss_f:  2.671e-04, Loss_D:  1.675e-05, Loss_N:  2.250e-04, Loss_Ns:  2.557e-05
+Training time:  149.8275
+Error k:  2.223640e-01
+Error h:  2.611632e-02
+Error c:  1.007275e+00
+
+
+test: Nk: 48, Nh: 8, Nf: 200, N_c: 64, N_fc: 200
+seed: 111, seed measurement: 1127, # Initial: 5
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 943 923 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard
+Regularization: 0 1e-08
+rand NNs seeds [1876  876  724   86 1299]
+
+
+seed_tf: 1876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.833059e-01, h: std 2.889761e-01, c: std 6.400944e-02
+loss:  5.325518e-04
+Loss_k:  2.544e-04, Loss_h:  9.036e-05, Loss_f:  2.589e-04, Loss_D:  1.554e-05, Loss_N:  1.139e-04, Loss_Ns:  1.938e-05
+Training time:  235.5631
+Error k:  1.400651e-01
+Error h:  1.649628e-02
+Error c:  1.413445e+00
+
+
+seed_tf: 876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.833059e-01, h: std 2.889761e-01, c: std 6.400944e-02
+loss:  1.577086e-04
+Loss_k:  2.355e-05, Loss_h:  6.615e-05, Loss_f:  1.010e-04, Loss_D:  5.445e-06, Loss_N:  2.548e-05, Loss_Ns:  1.637e-05
+Training time:  115.6928
+Error k:  1.583588e-01
+Error h:  1.479566e-02
+Error c:  1.531934e+00
+
+
+seed_tf: 724
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.833059e-01, h: std 2.889761e-01, c: std 6.400944e-02
+loss:  1.507531e-04
+Loss_k:  5.854e-05, Loss_h:  4.234e-05, Loss_f:  6.277e-05, Loss_D:  4.564e-06, Loss_N:  2.312e-05, Loss_Ns:  1.745e-05
+Training time:  157.3008
+Error k:  1.083267e-01
+Error h:  1.212910e-02
+Error c:  1.291399e+00
+
+
+seed_tf: 86
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.833059e-01, h: std 2.889761e-01, c: std 6.400944e-02
+loss:  2.424031e-04
+Loss_k:  8.364e-05, Loss_h:  7.814e-05, Loss_f:  1.080e-04, Loss_D:  8.221e-06, Loss_N:  3.921e-05, Loss_Ns:  1.788e-05
+Training time:  131.0643
+Error k:  1.301849e-01
+Error h:  1.560426e-02
+Error c:  1.224143e+00
+
+
+seed_tf: 1299
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.833059e-01, h: std 2.889761e-01, c: std 6.400944e-02
+loss:  5.507629e-04
+Loss_k:  2.464e-04, Loss_h:  1.010e-04, Loss_f:  2.632e-04, Loss_D:  1.283e-05, Loss_N:  1.315e-04, Loss_Ns:  3.881e-05
+Training time:  185.9381
+Error k:  1.391718e-01
+Error h:  1.769824e-02
+Error c:  1.007275e+00
+
+
+test: Nk: 64, Nh: 8, Nf: 200, N_c: 64, N_fc: 200
+seed: 111, seed measurement: 1127, # Initial: 5
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 943 923 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard
+Regularization: 0 1e-08
+rand NNs seeds [1876  876  724   86 1299]
+
+
+seed_tf: 1876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.744663e-01, h: std 2.901786e-01, c: std 6.400944e-02
+loss:  9.666868e-04
+Loss_k:  6.694e-04, Loss_h:  5.341e-05, Loss_f:  4.901e-04, Loss_D:  6.981e-06, Loss_N:  4.042e-05, Loss_Ns:  1.204e-05
+Training time:  142.1107
+Error k:  1.435033e-01
+Error h:  1.237942e-02
+Error c:  1.413445e+00
+
+
+seed_tf: 876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.744663e-01, h: std 2.901786e-01, c: std 6.400944e-02
+loss:  1.502197e-04
+Loss_k:  1.013e-04, Loss_h:  9.313e-06, Loss_f:  6.917e-05, Loss_D:  6.466e-07, Loss_N:  1.028e-05, Loss_Ns:  9.609e-06
+Training time:  154.9091
+Error k:  6.431705e-02
+Error h:  6.115796e-03
+Error c:  1.531934e+00
+
+
+seed_tf: 724
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.744663e-01, h: std 2.901786e-01, c: std 6.400944e-02
+loss:  2.360812e-04
+Loss_k:  1.625e-04, Loss_h:  1.415e-05, Loss_f:  8.979e-05, Loss_D:  2.683e-06, Loss_N:  2.751e-05, Loss_Ns:  1.224e-05
+Training time:  155.3287
+Error k:  7.912741e-02
+Error h:  7.906299e-03
+Error c:  1.291399e+00
+
+
+seed_tf: 86
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.744663e-01, h: std 2.901786e-01, c: std 6.400944e-02
+loss:  1.497689e-04
+Loss_k:  9.424e-05, Loss_h:  9.436e-06, Loss_f:  4.945e-05, Loss_D:  1.565e-06, Loss_N:  3.793e-05, Loss_Ns:  1.373e-05
+Training time:  210.3876
+Error k:  7.423641e-02
+Error h:  6.539370e-03
+Error c:  1.224143e+00
+
+
+seed_tf: 1299
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.744663e-01, h: std 2.901786e-01, c: std 6.400944e-02
+loss:  3.016551e-04
+Loss_k:  2.050e-04, Loss_h:  1.430e-05, Loss_f:  1.044e-04, Loss_D:  2.454e-06, Loss_N:  6.449e-05, Loss_Ns:  1.272e-05
+Training time:  141.4964
+Error k:  7.419346e-02
+Error h:  7.674223e-03
+Error c:  1.007275e+00
+
+
+test: Nk: 80, Nh: 8, Nf: 200, N_c: 64, N_fc: 200
+seed: 111, seed measurement: 1127, # Initial: 5
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 943 923 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard
+Regularization: 0 1e-08
+rand NNs seeds [1876  876  724   86 1299]
+
+
+seed_tf: 1876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.640832e-01, h: std 2.888668e-01, c: std 6.400944e-02
+loss:  3.444044e-04
+Loss_k:  2.500e-04, Loss_h:  1.231e-05, Loss_f:  1.325e-04, Loss_D:  4.558e-07, Loss_N:  4.684e-05, Loss_Ns:  6.627e-06
+Training time:  181.2926
+Error k:  7.240664e-02
+Error h:  7.330492e-03
+Error c:  1.413445e+00
+
+
+seed_tf: 876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.640832e-01, h: std 2.888668e-01, c: std 6.400944e-02
+loss:  2.236759e-04
+Loss_k:  1.404e-04, Loss_h:  1.041e-05, Loss_f:  1.366e-04, Loss_D:  9.925e-07, Loss_N:  2.288e-05, Loss_Ns:  4.759e-06
+Training time:  222.2425
+Error k:  6.640036e-02
+Error h:  6.350285e-03
+Error c:  1.531934e+00
+
+
+seed_tf: 724
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.640832e-01, h: std 2.888668e-01, c: std 6.400944e-02
+loss:  2.036201e-04
+Loss_k:  1.334e-04, Loss_h:  9.528e-06, Loss_f:  7.695e-05, Loss_D:  2.420e-06, Loss_N:  4.327e-05, Loss_Ns:  1.222e-05
+Training time:  170.4553
+Error k:  7.530998e-02
+Error h:  5.919003e-03
+Error c:  1.291399e+00
+
+
+seed_tf: 86
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.640832e-01, h: std 2.888668e-01, c: std 6.400944e-02
+loss:  2.623493e-04
+Loss_k:  1.853e-04, Loss_h:  8.260e-06, Loss_f:  1.083e-04, Loss_D:  8.055e-07, Loss_N:  3.242e-05, Loss_Ns:  1.437e-05
+Training time:  312.4155
+Error k:  6.915419e-02
+Error h:  6.320710e-03
+Error c:  1.224143e+00
+
+
+seed_tf: 1299
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.640832e-01, h: std 2.888668e-01, c: std 6.400944e-02
+loss:  2.139214e-04
+Loss_k:  1.467e-04, Loss_h:  7.751e-06, Loss_f:  9.108e-05, Loss_D:  4.569e-07, Loss_N:  2.991e-05, Loss_Ns:  1.352e-05
+Training time:  180.5175
+Error k:  6.401881e-02
+Error h:  6.294994e-03
+Error c:  1.007275e+00
+
+
+test: Nk: 96, Nh: 8, Nf: 200, N_c: 64, N_fc: 200
+seed: 111, seed measurement: 1127, # Initial: 5
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 943 923 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard
+Regularization: 0 1e-08
+rand NNs seeds [1876  876  724   86 1299]
+
+
+seed_tf: 1876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.603160e-01, h: std 2.806050e-01, c: std 6.400944e-02
+loss:  5.734579e-04
+Loss_k:  3.986e-04, Loss_h:  5.548e-06, Loss_f:  2.476e-04, Loss_D:  5.581e-06, Loss_N:  7.918e-05, Loss_Ns:  4.666e-05
+Training time:  172.4115
+Error k:  6.388475e-02
+Error h:  5.294029e-03
+Error c:  1.413445e+00
+
+
+seed_tf: 876
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.603160e-01, h: std 2.806050e-01, c: std 6.400944e-02
+loss:  2.136029e-04
+Loss_k:  1.352e-04, Loss_h:  8.360e-06, Loss_f:  1.065e-04, Loss_D:  1.244e-06, Loss_N:  3.667e-05, Loss_Ns:  1.370e-05
+Training time:  217.7306
+Error k:  5.261770e-02
+Error h:  5.190809e-03
+Error c:  1.531934e+00
+
+
+seed_tf: 724
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.603160e-01, h: std 2.806050e-01, c: std 6.400944e-02
+loss:  2.950107e-04
+Loss_k:  2.100e-04, Loss_h:  6.231e-06, Loss_f:  1.157e-04, Loss_D:  1.156e-06, Loss_N:  5.377e-05, Loss_Ns:  7.125e-06
+Training time:  134.5347
+Error k:  5.807982e-02
+Error h:  5.682679e-03
+Error c:  1.291399e+00
+
+
+seed_tf: 86
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.603160e-01, h: std 2.806050e-01, c: std 6.400944e-02
+loss:  2.477871e-04
+Loss_k:  1.456e-04, Loss_h:  9.012e-06, Loss_f:  1.541e-04, Loss_D:  2.810e-06, Loss_N:  3.618e-05, Loss_Ns:  1.617e-05
+Training time:  211.0512
+Error k:  5.932615e-02
+Error h:  5.360310e-03
+Error c:  1.224143e+00
+
+
+seed_tf: 1299
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.603160e-01, h: std 2.806050e-01, c: std 6.400944e-02
+loss:  3.628340e-04
+Loss_k:  2.462e-04, Loss_h:  1.053e-05, Loss_f:  1.695e-04, Loss_D:  6.745e-07, Loss_N:  4.777e-05, Loss_Ns:  2.331e-05
+Training time:  197.4724
+Error k:  5.870317e-02
+Error h:  6.075676e-03
+Error c:  1.007275e+00
+
+

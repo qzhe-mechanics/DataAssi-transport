@@ -1,0 +1,67 @@
+test: Nk: 16, Nh: 16, Nf: 20, N_c: 64, N_fc: 200
+seed: 111, # Initial: 5
+Measurement Seed: 1127, type: 2
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 923 913 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard 0.001
+Regularization & loss type: 0 1e-06, lsty = 1
+rand NNs seeds [1876  876  724   86 1299]
+
+
+seed_tf: 1876
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  7.658786e-05
+Loss_k:  8.315e-06, Loss_h:  5.166e-05, Loss_f:  1.455e-06, Loss_D:  2.966e-06, Loss_N:  2.003e-05, Loss_Ns:  7.675e-06
+Training time:  25.0564
+Error k:  4.653387e-01
+Error h:  2.742020e-02
+Error c:  1.281300e+00
+
+
+seed_tf: 876
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  6.856230e-05
+Loss_k:  5.152e-07, Loss_h:  6.430e-05, Loss_f:  8.181e-07, Loss_D:  1.991e-07, Loss_N:  6.094e-06, Loss_Ns:  7.865e-07
+Training time:  29.7105
+Error k:  3.595493e-01
+Error h:  2.268410e-02
+Error c:  1.071170e+00
+
+
+seed_tf: 724
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  7.094782e-05
+Loss_k:  5.840e-07, Loss_h:  5.378e-05, Loss_f:  2.752e-07, Loss_D:  9.565e-06, Loss_N:  1.262e-05, Loss_Ns:  2.396e-06
+Training time:  49.6703
+Error k:  3.339369e-01
+Error h:  3.270998e-02
+Error c:  1.564190e+00
+
+
+seed_tf: 86
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  3.429787e-04
+Loss_k:  6.836e-05, Loss_h:  1.862e-04, Loss_f:  6.164e-05, Loss_D:  5.664e-06, Loss_N:  1.005e-04, Loss_Ns:  1.223e-05
+Training time:  22.6976
+Error k:  3.926260e-01
+Error h:  2.609353e-02
+Error c:  1.456933e+00
+
+
+seed_tf: 1299
+k nor: 1.493993e+00, h nor 9.360000e-01, c nor 9.686340e-01
+k std: 2.805626e-01, h: std 2.722163e-01, c: std 6.400944e-02
+loss:  4.938821e-05
+Loss_k:  1.201e-07, Loss_h:  4.359e-05, Loss_f:  1.869e-08, Loss_D:  1.493e-06, Loss_N:  7.191e-06, Loss_Ns:  1.871e-06
+Training time:  51.0248
+Error k:  4.660781e-01
+Error h:  3.524199e-02
+Error c:  1.154835e+00
+
+

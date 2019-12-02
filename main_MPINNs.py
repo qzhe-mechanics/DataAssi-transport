@@ -74,7 +74,7 @@ seed_mea = int(sys.argv[sys_id])    if len(sys.argv) > sys_id else 111 # 1127
 sys_id += 1
 flag_lsty = int(sys.argv[sys_id])   if len(sys.argv) > sys_id else 1 # 1: default for the version
 sys_id += 1
-conv_opt   = float(sys.argv[sys_id])   if len(sys.argv) > sys_id else 0.001 # The conv coefficient for opt7
+conv_opt   = float(sys.argv[sys_id])   if len(sys.argv) > sys_id else 0.0001 # The conv coefficient for opt7
 
 if flag_data == 12:
     path_data = './Data_mea/data1_sin_smooth/'       # The periodic data
