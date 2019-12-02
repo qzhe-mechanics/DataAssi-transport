@@ -27,7 +27,7 @@ num_data = 1
 array_nn  = np.array([631,632,633,634,635,636,637,638,639,630])
 for i_nn in array_nn:
 
-	directory = './Output_MPINNs_examples/ds41_pro31/MPINN_ds41_pro31_opt21m1k_nn'+str(i_nn)+'/'  # test main_PINN_CAD_v3 without STD
+	directory = './Output_MPINNs_examples/ds41_pro31/MPINN_ds41_pro31_opt21m1ki400k_nn'+str(i_nn)+'/'  # test main_PINN_CAD_v3 without STD
 	src_dir   = './main_MPINNs.py'          # Recall the code
 
 	if not os.path.exists(directory):
@@ -42,5 +42,5 @@ for i_nn in array_nn:
 				1.0 1.0 1.0 1.0 1.0 \
 				41 1 \
 				{5} 923 923 1 1 1\
-				21 1000 1000000 0.0002 0 1.e-8 'standard' 31 \
+				21 1000 400000 0.0002 0 1.e-8 'standard' 31 \
 				2 {6} 1 0.0001".format(src_dir,directory,i_s,N_s,num_k,i_nn,rand_seed_mea))
