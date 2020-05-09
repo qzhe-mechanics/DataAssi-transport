@@ -1,4 +1,2 @@
-## Citation
-If you find our code to be useful, please cite the following papers:
-
-QiZhi He, David Brajas-Solano, Guzel Tartakovsky, Alexandre M. Tartakovsky, "Physics-Informed Neural Networks for Multiphysics Data Assimilation with Application to Subsurface Transport" (2019)
+Please cite this article as: 
+QiZhi He, David Barajas-Solano, Guzel Tartakovsky, Alexandre M. Tartakovsky,   Physics-Informed   Neural   Networks   for   Multiphysics   Data   Assimilation   with   Application   to   Subsurface   Transport,Advances   in   Water   Resources(2020),   doi: https://doi.org/10.1016/j.advwatres.2020.103610
