@@ -1,0 +1,25 @@
+test: Nk: 36, Nh: 36, Nf: 400, N_c: 64, N_fc: 200
+seed: 111, # Initial: 1
+Measurement Seed: 1127, type: 2
+para: para_k: 1.0, para_h: 1.0, para_kh: 1.0, para_c: 1.0, para_khc: 1.0
+Problem & data set: 2 12
+NN architecture: 943 923 912
+NN activation: 1 1 1
+Optimier: 1 0 50000 0.0001 standard 0.0001
+Regularization & loss type: 1 1e-06, lsty = 1
+
+
+seed_tf: 111
+k nor: 1.493993e+00, h nor 1.014000e+00, c nor 9.686340e-01
+k std: 2.617062e-01, h: std 2.966121e-01, c: std 6.400944e-02
+train BFGS, epoch: 15497, loss: 0.0009895485127344728, loss_k: 2.9684095352422446e-05, loss_h: 2.469066203047987e-05, loss_f: 7.234604709083214e-05
+*** rl2_k: 1.262e-01, rl2_h: 9.705e-03
+loss:  9.895485e-04
+loss_reg:  8.888403e-04
+Loss_k:  2.968e-05, Loss_h:  2.469e-05, Loss_f:  7.235e-05, Loss_D:  4.303e-07, Loss_N:  2.687e-05, Loss_Ns:  5.370e-06
+Training time:  157.4156
+Error k:  1.262461e-01
+Error h:  9.705486e-03
+Error c:  1.080597e+00
+
+
