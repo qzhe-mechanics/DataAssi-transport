@@ -3,9 +3,7 @@ QiZhi He, David Barajas-Solano, Guzel Tartakovsky, Alexandre M. Tartakovsky,   P
 
 # Citation
 @article{he2020physics,
-
   title={Physics-informed neural networks for multiphysics data assimilation with application to subsurface transport},
-  
   author={He, QiZhi and Barajas-Solano, David and Tartakovsky, Guzel and Tartakovsky, Alexandre M},
   journal={Advances in Water Resources},
   pages={103610},
